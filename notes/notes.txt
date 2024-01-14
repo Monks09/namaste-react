@@ -1,0 +1,8 @@
+* React.createElement creates an object which is converted to html element when rendered to DOM using root.render().
+
+* JSX is not HTML in JS. It is rather an HTML or XML like syntax but different from them.
+
+* Babel is a transpiler that converts JSX elements to React elements (JS objects) which is then converted to HTML elements before being rendered to DOM.
+
+* Component composition means to compose components into one another (nesting components together).
+
